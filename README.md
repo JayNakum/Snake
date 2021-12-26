@@ -1,4 +1,4 @@
-### Developed by Jay Nakum
+### Developed by [Jay Nakum](https://jaynakum.github.io)
 
 # Snake
 On my path of learning game developement, I have tried to recreate the famous snake game.
