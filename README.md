@@ -10,3 +10,8 @@ On my path of learning game developement, I have tried to recreate the famous sn
 ## How to play?
 This is probably the most useless section xD.  
 You just have to use your arrow keys to move the snake and eat as many apples as you can!.
+
+## Credits
+I have taken [ZetCode's](https://zetcode.com/javagames/) snake game as a reference.
+
+### Thank you :)
