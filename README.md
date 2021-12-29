@@ -1,6 +1,4 @@
-### Developed by [Jay Nakum](https://jaynakum.github.io)
-
-# Snake
+# Snake [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JayNakum/Snake?label=Download&style=for-the-badge)](https://github.com/JayNakum/Snake/releases)
 On my path of learning game developement, I have tried to recreate the famous snake game.
 
 ## Screenshots
@@ -13,3 +11,5 @@ You just have to use your arrow keys to move the snake and eat as many apples as
 
 ## Credits
 I have taken reference from [ZetCode's](https://zetcode.com) [snake game](https://github.com/janbodnar/Java-Snake-Game).
+
+### Developed by [Jay Nakum](https://jaynakum.github.io).
