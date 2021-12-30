@@ -1,4 +1,4 @@
-# Snake [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JayNakum/Snake?label=Download&style=for-the-badge)](https://github.com/JayNakum/Snake/releases)
+# [Snake](https://github.com/JayNakum/Snake) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JayNakum/Snake?label=Download&style=for-the-badge)](https://github.com/JayNakum/Snake/releases)
 On my path of learning game developement, I have tried to recreate the famous snake game.
 
 ## Screenshots
