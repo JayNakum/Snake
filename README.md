@@ -1,5 +1,5 @@
 # [Snake](https://github.com/JayNakum/Snake) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JayNakum/Snake?label=Download&style=for-the-badge)](https://github.com/JayNakum/Snake/releases)
-On my path of learning game developement, I have tried to recreate the famous snake game.
+On my path of learning game developement, I have tried to recreate the famous nokia snake game.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/45930809/147413523-d90a2dbc-df19-41e8-a8d7-12a3ebd13ba8.png)
